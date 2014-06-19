@@ -1,0 +1,11 @@
+##fileformat=VCFv4.1
+##fileDate=2014/06/17
+##source=Manual_Curation_By_Andrew_Jesaitis
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+7	117120154	.	A	AT	.	.	.	GT	0/1
+7	117105835	.	TTTT	T	.	.	.	GT	0/1
+7	117307159	.	TT	T	.	.	.	GT	0/1
+7	117119513	.	C	CA	.	.	.	GT	0/1
+7	117144417	.	G	GATG	.	.	.	GT	0/1
+7	117307123	.	AGAG	A	.	.	.	GT	0/1
